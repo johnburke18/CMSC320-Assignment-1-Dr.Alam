@@ -5,3 +5,8 @@ Answer: To help organize code and files across larger organizations.
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to many business fields like finance to help generate models and predict future eceonomic developments.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the history while rebasing eliminates one of the files to mantain a linear path of commits.
+
